@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "userName": "vky",
+            "password": "12341234",
+            "role": "superadmin"
+        },
+        {
+            "userName": "tre",
+            "password": "12341234",
+            "role": "superadmin"
+        }
+    ]
+}
